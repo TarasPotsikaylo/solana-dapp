@@ -1,8 +1,11 @@
 ## Getting Started
 
 First, run the development server:
-
-```bash
+```
+npm run ci
+```
+after:
+```
 npm run dev
 # or
 yarn dev
